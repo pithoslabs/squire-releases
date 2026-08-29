@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Squire</title>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Sun, 30 Aug 2026 00:44:05 +0100</pubDate>
+            <sparkle:version>0.1.3</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pithoslabs/squire-releases/releases/download/updates/Squire-0.1.3.zip" length="46310038" type="application/octet-stream" sparkle:edSignature="SA01VezKsreLvbNXC+rXMLLPPwWzPquiTPE2b6cLPhI5id9ctffKpwtBmZxo5Y7qNGQv9nAlpiJLHg/C+Si/Bg=="/>
+        </item>
+    </channel>
+</rss>
