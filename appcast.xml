@@ -3,12 +3,12 @@
     <channel>
         <title>Squire</title>
         <item>
-            <title>0.1.14</title>
-            <pubDate>Sun, 06 Sep 2026 14:33:54 +0100</pubDate>
-            <sparkle:version>0.1.14</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <title>0.1.15</title>
+            <pubDate>Sun, 06 Sep 2026 18:56:56 +0100</pubDate>
+            <sparkle:version>0.1.15</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pithoslabs/squire-releases/releases/download/updates/Squire-0.1.14.zip" length="47515051" type="application/octet-stream" sparkle:edSignature="WA3ycMtMd9CbZZ1xzMR7AV51ol1ZWstrlMqQvz7sy8FtfEJ0VXKJ+Js5TdOtpZwOBFOo+WL7MEI7G3kvZ0oXCw=="/>
+            <enclosure url="https://github.com/pithoslabs/squire-releases/releases/download/updates/Squire-0.1.15.zip" length="47513934" type="application/octet-stream" sparkle:edSignature="JsjmJQ28SkfBylsB3dg7hpyZcgBd/QyLtTch92f8lMExzxzPmm2B/UOwjfsDXG+xE2i2BkAqVjlQWWhX1mVnAA=="/>
         </item>
     </channel>
 </rss>
